@@ -1,7 +1,7 @@
 # 2021spring_41class_team6
 
 ## Voice Campus
-### Application that helps visually impaired students to follow schoolwork easily
+### Application helping visually impaired students to follow schoolwork easily
 
 ## Team Member List
 - 강현묵 
